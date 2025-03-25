@@ -1,0 +1,20 @@
+
+.browse-container {
+    padding: 20px 40px;
+  }
+  
+  .search-bar {
+    padding: 8px;
+    margin: 15px 0;
+    width: 100%;
+    max-width: 400px;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+  }
+  
+  .book-list {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  

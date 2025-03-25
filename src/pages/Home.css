@@ -1,0 +1,18 @@
+
+.home-container {
+    padding: 20px 40px;
+  }
+  
+  .categories {
+    display: flex;
+    gap: 15px;
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  .popular-books {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  
